@@ -5,6 +5,7 @@ from solver import solver
 if __name__ == '__main__':
 
     tasks = [
+        'a_example'
     ]
 
     for task in tasks:
