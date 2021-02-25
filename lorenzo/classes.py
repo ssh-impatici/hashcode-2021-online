@@ -17,8 +17,9 @@ class Street:
 
 class Schedule:
 
-    def __init__(self, pairs):
+    def __init__(self, pairs, intersection):
         self.pairs = pairs
+        self.intersection = intersection
 
 
 class SchedulePair:

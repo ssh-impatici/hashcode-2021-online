@@ -1,12 +1,15 @@
 import time
 
-task = 'a_example.txt'
+from read import read
+
+path = './data/'
+
+task = 'a'
 
 start = time.time()
 
-# _, _, _, _ = read(path + task + '.in')
+duration, n_intersec, n_streets, n_cars, bonus, streets, cars, intersections = read(path + task + '.txt')
 
-# list of Schedule
 output = []
 
 # ...
