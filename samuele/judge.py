@@ -1,0 +1,3 @@
+def judge(output):
+
+    print()
