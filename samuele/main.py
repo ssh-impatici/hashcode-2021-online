@@ -5,7 +5,12 @@ from solver import solver
 if __name__ == '__main__':
 
     tasks = [
-        'a_example'
+        'a',
+        'b',
+        'c',
+        'd',
+        'e',
+        'f'
     ]
 
     for task in tasks:
