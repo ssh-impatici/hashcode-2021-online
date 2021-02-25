@@ -6,6 +6,7 @@ start = time.time()
 
 # _, _, _, _ = read(path + task + '.in')
 
+# list of Schedule
 output = []
 
 # ...

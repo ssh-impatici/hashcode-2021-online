@@ -19,9 +19,9 @@ def solver(task):
 
     # ...
 
-    # write('./output/' + task + '.txt', output)
+    write('./output/' + task + '.txt', output)
 
-    # score = judge(output)
+    score = judge(output)
 
     # print(task, str(time.time() - start), str(score))
     print(task, str(time.time() - start))
