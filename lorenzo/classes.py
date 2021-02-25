@@ -13,6 +13,7 @@ class Street:
         self.int_in = int_in
         self.int_out = int_out
         self.time = time
+        self.cars = []
 
 
 class Schedule:
@@ -35,3 +36,4 @@ class Car:
         self.streets = streets
         self.street_in = streets[0]
         self.street_out = streets[-1]
+        self.score = 0
