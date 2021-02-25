@@ -125,7 +125,7 @@ db-bj 1
 dhf-bj 1
 cii-bj 1
 hcj-bj 1
-bdbf-bj 2
+bdbf-bj 1
 20
 4
 cd-ca 1
@@ -466,7 +466,7 @@ iaa-hb 1
 72
 4
 gg-hc 1
-cif-hc 2
+cif-hc 1
 dbf-hc 1
 ejc-hc 1
 74
@@ -748,7 +748,7 @@ gjh-bbh 1
 bacc-bbh 1
 118
 9
-bca-bbi 4
+bca-bbi 3
 cea-bbi 1
 beb-bbi 1
 ib-bbi 1
@@ -773,7 +773,7 @@ bae-bca 1
 eae-bca 1
 gae-bca 1
 cji-bca 1
-gaf-bca 4
+gaf-bca 3
 121
 4
 bbdg-bcb 1
@@ -1860,7 +1860,7 @@ fjc-chc 1
 hba-chc 1
 jfb-chc 1
 jhd-chc 1
-bbfj-chc 2
+bbfj-chc 1
 273
 4
 dfj-chd 1
@@ -2873,7 +2873,7 @@ bchc-ecb 1
 cd-ecc 1
 edi-ecc 1
 ejd-ecc 1
-jc-ecc 3
+jc-ecc 2
 idf-ecc 1
 gce-ecc 1
 babd-ecc 1
@@ -3267,7 +3267,7 @@ efc-eia 1
 cjj-eia 1
 481
 4
-dg-eib 5
+dg-eib 3
 bbbe-eib 1
 iih-eib 1
 bcji-eib 1
@@ -3578,7 +3578,7 @@ bbea-fci 1
 egd-fcj 1
 ffb-fcj 1
 ghc-fcj 1
-fcg-fcj 2
+fcg-fcj 1
 hge-fcj 1
 heb-fcj 1
 530
@@ -5199,7 +5199,7 @@ cjf-hjj 1
 800
 6
 cij-iaa 1
-deb-iaa 3
+deb-iaa 2
 eef-iaa 1
 jcg-iaa 1
 ead-iaa 1
@@ -7886,7 +7886,7 @@ hbh-bdhb 1
 haf-bdhb 1
 1372
 2
-jei-bdhc 6
+jei-bdhc 4
 bahg-bdhc 1
 1373
 2

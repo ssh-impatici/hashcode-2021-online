@@ -1,11 +1,11 @@
 3
 0
 1
-rue-de-londres 5
+rue-de-londres 3
 1
 2
-rue-d-amsterdam 3
-rue-d-athenes 7
+rue-d-amsterdam 2
+rue-d-athenes 4
 3
 1
 rue-de-rome 1

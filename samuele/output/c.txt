@@ -1172,7 +1172,7 @@ eeg-eeh 1
 449
 2
 dfb-eej 1
-fcb-eej 6
+fcb-eej 3
 450
 1
 eej-efa 1
@@ -1368,7 +1368,7 @@ eeh-fbj 1
 eei-fca 1
 521
 1
-fca-fcb 2
+fca-fcb 1
 522
 1
 fcb-fcc 1
@@ -4035,7 +4035,7 @@ bejb-beja 1
 bebj-bejb 1
 1492
 2
-bejd-bejc 2
+bejd-bejc 1
 beca-bejc 1
 1494
 1
@@ -4296,7 +4296,7 @@ bgii-bfig 1
 bfig-bfih 1
 1588
 2
-bejc-bfii 2
+bejc-bfii 1
 bfih-bfii 1
 1589
 1
@@ -4982,7 +4982,7 @@ bici-bich 1
 bjac-bici 1
 1829
 2
-bici-bicj 2
+bici-bicj 1
 bjad-bicj 1
 1830
 1
@@ -8419,7 +8419,7 @@ cjib-cjia 1
 3
 cjaj-cjib 1
 dafd-cjib 1
-cjia-cjib 3
+cjia-cjib 2
 2982
 2
 cjib-cjic 1
@@ -9892,7 +9892,7 @@ debe-deii 1
 debf-deij 1
 3491
 1
-debh-dejb 2
+debh-dejb 1
 3495
 2
 decb-dejf 1
@@ -15827,7 +15827,7 @@ fghf-fghg 1
 fghg-fghh 1
 5678
 4
-fiaa-fghi 4
+fiaa-fghi 2
 fgac-fghi 1
 fghh-fghi 1
 fghj-fghi 1
@@ -24566,7 +24566,7 @@ iijc-iijd 1
 iije-iijd 1
 8894
 4
-iijd-iije 3
+iijd-iije 2
 iicc-iije 1
 ijgg-iije 1
 iijf-iije 1
@@ -24876,7 +24876,7 @@ jaah-jaag 1
 jbcb-jaah 1
 9009
 1
-jbcd-jaaj 3
+jbcd-jaaj 2
 9013
 1
 jabc-jabd 1

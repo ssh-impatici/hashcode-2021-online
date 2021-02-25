@@ -3145,7 +3145,7 @@ cadi-jfe 1
 bgab-jff 1
 956
 1
-jff-jfg 2
+jff-jfg 1
 957
 1
 cadi-jfh 1
@@ -17210,10 +17210,10 @@ fgdd-fgdf 1
 fgcd-fgdg 1
 5637
 1
-eebb-fgdh 2
+eebb-fgdh 1
 5638
 1
-fgdh-fgdi 2
+fgdh-fgdi 1
 5639
 1
 fgdi-fgdj 1
@@ -19955,7 +19955,7 @@ gfei-gfeh 1
 gfej-gfei 1
 6549
 2
-gfha-gfej 3
+gfha-gfej 1
 gfhd-gfej 1
 6550
 3
@@ -19967,10 +19967,10 @@ ggfc-gffa 1
 gfgi-gffb 1
 6552
 1
-gfej-gffc 4
+gfej-gffc 1
 6553
 1
-ggcj-gffd 4
+ggcj-gffd 1
 6554
 1
 gfej-gffe 1
@@ -20004,7 +20004,7 @@ ggag-gfgd 1
 ggba-gfge 1
 6566
 1
-gfib-gfgg 2
+gfib-gfgg 1
 6567
 1
 gfii-gfgh 1
@@ -20048,11 +20048,11 @@ gfhh-gfhi 1
 ggff-gfhi 1
 6579
 1
-gfib-gfhj 3
+gfib-gfhj 1
 6581
 2
-gfhj-gfib 2
-ggcc-gfib 2
+gfhj-gfib 1
+ggcc-gfib 1
 6582
 1
 gged-gfic 1
@@ -20187,7 +20187,7 @@ ggae-ggch 1
 ggae-ggci 1
 6629
 1
-ggda-ggcj 6
+ggda-ggcj 1
 6630
 1
 ggbe-ggda 1

@@ -54,7 +54,7 @@ def solver(task):
         schedule = Schedule([],inter)
 
         for street in inter.streets_in:
-            COST_TIME = 6 # TODO
+            COST_TIME = duration # TODO Sulla D fare tempi brevi
             score_norm = int(ceil(COST_TIME*(street.score - street_score_min)/(street_score_max - street_score_min))) # TODO
             if score_norm > 0:
                 bool = True
