@@ -31,9 +31,7 @@ def solver(task):
     '''
 
     for car in cars:
-        car.score = 1/(sum(street.time for street in car.streets)*len(car.streets)) # TODO
-
-    # Ho paura sia ricorsivo,
+        car.score = 1*len(car.streets)/(sum(street.time for street in car.streets)) # TODO
 
     street_score_min = 9999999999
     street_score_max = -1
@@ -41,7 +39,7 @@ def solver(task):
         if len(street.cars) == 0:
             street.score = 0
         else:
-            street.score = sum(car.score for car in street.cars)/(street.time*len(street.cars)) # TODO
+            street.score = sum(car.score for car in street.cars)*len(street.cars)/(street.time) # TODO
 
         if street_score_min > street.score:
             street_score_min = street.score
@@ -54,7 +52,7 @@ def solver(task):
         schedule = Schedule([],inter)
 
         for street in inter.streets_in:
-            COST_TIME = duration # TODO Sulla D fare tempi brevi
+            COST_TIME = duration # TODO Sulla D fare tempi brevi (duration)
             score_norm = int(ceil(COST_TIME*(street.score - street_score_min)/(street_score_max - street_score_min))) # TODO
             if score_norm > 0:
                 bool = True
