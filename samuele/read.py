@@ -2,7 +2,6 @@ from classes import *
 
 
 def read(path):
-
     with open(path, 'r') as file:
 
         streets = {}
